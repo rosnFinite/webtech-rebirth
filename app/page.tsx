@@ -22,7 +22,7 @@ export default function Home() {
         </h1>
         <p></p>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-        <TextGenerateEffect words="Eintracht Trier exclusive street style merch drop comming soon!" />
+        <TextGenerateEffect words="Eintracht Trier exclusive street style merch drop commming soon!" />
         </p>
         <input
           type="text"
